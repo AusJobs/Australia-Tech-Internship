@@ -4,6 +4,13 @@ This repository is for keeping the list of Technology, IT and Software Engineeri
 
 ⚠️ Please note that this repository is exclusively for internships in Australia 🌎
 
+- Add any internships in the following categories:
+  - software/computer engineering
+  - computer/data science
+  - product management
+  - quant
+  - any other tech-related internships
+
 ## The List 🚴🏔
 
 | Company                                  | Role                                                                       | Application Date   |
