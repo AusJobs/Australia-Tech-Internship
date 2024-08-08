@@ -80,6 +80,7 @@ This repository is for keeping the list of Technology, IT and Software Engineeri
 
 <details>
 <summary>Future programs: Express interest/get notified</summary>
+
 | Company | Types of Internships Previously Offered | Location/s | Notes |
 |:---|:---|:---|:---|
 | Citadel Securities | Quant, SWE, Data Analytics | Sydney | Get notified via [this survey](https://www.surveymonkey.com/r/CampusInterestSurvey) |
@@ -96,7 +97,7 @@ This repository is for keeping the list of Technology, IT and Software Engineeri
 | Fivecast | SWE / AI | Canberra, Sydney | Send EOI email to [recruitment](mailto:CAREERS@FIVECAST.COM) |
 | BlueRock | Data + more | Melbourne | Send EOI email to [recruitment](mailto:the-blue-rock@jobs.workablemail.com) |
 | CalcTree | SWE | Sydney/Remote | Send EOI email to [contact](mailto:contact@calctree.com) - include why you’d like to join and what difference you’d like to make to the lives of engineers |
-| Bank of Queensland | SWE/Data Science | Brisbane, Sydney, Melbourne | https://www.boq.com.au/About-us/careers/internship-program or set up a job alert [here](https://psdctalentlinkwebstg01.blob.core.windows.net/p-html-container-02/$web/boq_external/FO/index.html?searchCriteria%5B0%5D%5Bkey%5D=keywords&searchCriteria%5B0%5D%5Bvalues%5D%5B%5D=intern&searchCriteria%5B1%5D%5Bkey%5D=Resultsperpage&searchCriteria%5B1%5D%5Bvalues%5D%5B%5D=20&page=2)|
+| Bank of Queensland | SWE/Data Science | Brisbane, Sydney, Melbourne | https://www.boq.com.au/About-us/careers/internship-program or set up a job alert [here](https://psdctalentlinkwebstg01.blob.core.windows.net/p-html-container-02/$web/boq_external/FO/index.html?searchCriteria%5B0%5D%5Bkey%5D=keywords&searchCriteria%5B0%5D%5Bvalues%5D%5B%5D=intern&searchCriteria%5B1%5D%5Bkey%5D=Resultsperpage&searchCriteria%5B1%5D%5Bvalues%5D%5B%5D=20&page=2) |
 | Leidos Australia | SWE/Data Science | Melbourne | Fill out an EOI form [here](https://www.leidos.com/company/global/australia/careers/early-careers) |
 | Appian | | Sydney | Contact the company to find out how to apply for their [internship program](https://careers.appian.com/students/) |
 
@@ -106,9 +107,13 @@ This repository is for keeping the list of Technology, IT and Software Engineeri
 
 ## Internship Listing Sites
 [UNSW Careers](https://careers.business.unsw.edu.au/search-jobs)
+
 [GradConnection](https://au.gradconnection.com/)
+
 [Top Intern Programs](https://www.topinternprograms.com.au) - ranked by interns, collated by AAGE
+
 [Student Internships](https://studentinternships.com.au)
+
 [BrightSparks](https://brightworks.net.au/students-BrightSparks/)
 
 This repository was created with the inspiration from internship repository created by <a href="https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F">SimplifyJobs.</a>
